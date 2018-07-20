@@ -10,3 +10,4 @@
 5. BinaryTree
 6. BinarySearchTree
 7. AVL Tree
+8. Heap

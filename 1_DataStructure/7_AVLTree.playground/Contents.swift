@@ -1,13 +1,5 @@
-// Copyright (c) 2018 Razeware LLC
-// For full license & permission details, see LICENSE.markdown.
-
 import Foundation
-public func processTime(of: String, action: () -> ()) {
-    var startTime = CFAbsoluteTimeGetCurrent()
-    action()
-    let processingTime = CFAbsoluteTimeGetCurrent() - startTime
-    print("\(of), processing Time is \(processingTime)")
-}
+
 example(of: "Insert AVL Node") {
     
     var tree = AVLTree<Int>()

@@ -19,6 +19,7 @@
 	6. BinarySearchTree
 	7. AVL Tree
 	8. Heap
+	9. PriorityQueue
 
 	
 ---

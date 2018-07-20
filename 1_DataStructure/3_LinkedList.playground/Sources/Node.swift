@@ -1,0 +1,23 @@
+import Foundation
+
+// Node의 기본 적인 이론
+public class Node<Value>{
+    public var value: Value
+    public var next: Node?
+    
+    public init(_ value: Value, next: Node? = nil) {
+        self.value = value
+        self.next = next
+    }
+}
+
+extension Node: CustomStringConvertible {
+    public var description: String {
+        guard let next = next else {
+            return "\(value)"
+        }
+        return "\(value) -> " + String(describing: next) + " "
+    }
+}
+
+

@@ -12,3 +12,4 @@
 7. AVL Tree
 8. Heap
 9. PriorityQueue
+10. Graph

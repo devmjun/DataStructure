@@ -3,7 +3,7 @@
 ---
 
 - Algorithm
-	 1. Bubble sort 
+	1. Bubble sort 
 	2. Selection sort 
 	3. Insertion sort
 	4. Merge sort
@@ -20,6 +20,7 @@
 	7. AVL Tree
 	8. Heap
 	9. PriorityQueue
+	10. Graph
 
 	
 ---

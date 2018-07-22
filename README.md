@@ -22,6 +22,7 @@
 	9. PriorityQueue
 	10. Graph
 	11. Minimum Spanning Tree
+	12. Dijkstra Algorithm
 
 	
 ---

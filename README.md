@@ -21,6 +21,7 @@
 	8. Heap
 	9. PriorityQueue
 	10. Graph
+	11. Minimum Spanning Tree
 
 	
 ---

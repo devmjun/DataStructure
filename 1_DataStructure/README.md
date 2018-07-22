@@ -13,3 +13,4 @@
 8. Heap
 9. PriorityQueue
 10. Graph
+11. MST(Minimum Spanning Tree)

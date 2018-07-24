@@ -142,7 +142,6 @@ extension AVLTree {
 
      balanceFactor의 신호를 사용하여 한번 혹은 두번 회전이 필요한지 결정할수 있습니다.
      */
-
     private func balanced(_ node: AVLNode<Element>) -> AVLNode<Element> {
         switch node.balanceFactor {
         // 1. 왼쪽이 더 무거운 경우, 오른쪽 회전 or 왼쪽-오른쪽 회전
@@ -180,10 +179,6 @@ extension AVLTree {
         }
     }
 }
-
-
-
-
 
 extension AVLTree {
 
